@@ -140,4 +140,5 @@
 
 # 架构图
 
-![架构图](sw-arch.svg)
+![架构图 svg](sw-arch.svg)
+![架构图 png](sw-arch.png)
