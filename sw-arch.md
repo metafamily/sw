@@ -9,6 +9,7 @@
 
 我们目前涉及到的系统有：
 * 电商 ERP 系统 （JST）
+* 电商广告投放管理系统
 * 实体店 POS 系统
 * 私域系统 （Facebook, WhatsApp, Instagram, Twitter)
 * 独立站点
