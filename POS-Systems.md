@@ -6,7 +6,7 @@
 * 地点：JKT 办公室
 * 人员：Christian (Turboly)，Steven (T)，Amy (S), Tiger (S)
 
-系统功能点印象：
+系统特点：
 
 * 基于 Web 的 POS 系统
 * 支持多门店
