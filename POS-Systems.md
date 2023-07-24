@@ -2,9 +2,9 @@
 
 ## Turboly POS
 
-洽谈时间：2023-07-24 10:00～11:00 (GMT+7)
-地点：JKT 办公室
-人员：Christian (Turboly)，Steven (T)，Amy (S), Tiger (S)
+* 洽谈时间：2023-07-24 10:00～11:00 (GMT+7)
+* 地点：JKT 办公室
+* 人员：Christian (Turboly)，Steven (T)，Amy (S), Tiger (S)
 
 * 基于 Web 的 POS 系统
 * 支持多门店
